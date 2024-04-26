@@ -3,6 +3,7 @@ Standalone Colab notebooks for creating videos with [Revideo](https://re.video/)
 
 ## Overview
 ![template.gif](/outputs/template.gif)
+![minecraft.gif](/outputs/minecraft.gif)
 
 This Colab template lets you easily explore and use Revideo. It's an open-source library for programmatically creating videos, pretty fun to work with!
 
