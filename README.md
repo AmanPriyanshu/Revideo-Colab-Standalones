@@ -11,7 +11,10 @@ This Colab template lets you easily explore and use Revideo. It's an open-source
 
 ### Step 1: Setup
 
-No setup needed! Everything is included in this [notebook](https://github.com/AmanPriyanshu/Revideo-Colab-Standalones/blob/main/notebooks/Re_Video_Complete_Colab_Run.ipynb).
+No setup needed! Everything is included in these notebooks. Make sure to have a Whisper API key if you're following the Minecraft Overlay Notebook: 
+
+1. [Template notebook](https://github.com/AmanPriyanshu/Revideo-Colab-Standalones/blob/main/notebooks/Re_Video_Complete_Colab_Run.ipynb).
+2. [Minecraft overlay notebook](https://github.com/AmanPriyanshu/Revideo-Colab-Standalones/blob/main/notebooks/Minecraft_Overlay_Revideo.ipynb)
 
 ### Step 2: Run
 
