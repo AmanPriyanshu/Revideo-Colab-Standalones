@@ -10,7 +10,7 @@ This Colab template lets you easily explore and use Revideo. It's an open-source
 
 ### Step 1: Setup
 
-No setup needed! Everything is included in this [notebook](https://github.com/AmanPriyanshu/Revideo-Colab/blob/main/Re_Video_Complete_Colab_Run.ipynb).
+No setup needed! Everything is included in this [notebook](https://github.com/AmanPriyanshu/Revideo-Colab-Standalones/blob/main/notebooks/Re_Video_Complete_Colab_Run.ipynb).
 
 ### Step 2: Run
 
