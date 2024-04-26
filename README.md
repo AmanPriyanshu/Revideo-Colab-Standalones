@@ -2,6 +2,7 @@
 Standalone Colab notebooks for creating videos with [Revideo](https://re.video/). This repo is a collection of experiments using their provided [API](https://docs.re.video/category/api-reference), designed to be easily accessible and usable by anyone, anywhere, through Colab.
 
 ## Overview
+![template.gif](/outputs/gif/template.gif)
 
 This Colab template lets you easily explore and use Revideo. It's an open-source library for programmatically creating videos, pretty fun to work with!
 
